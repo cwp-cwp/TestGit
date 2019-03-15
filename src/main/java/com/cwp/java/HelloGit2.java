@@ -12,4 +12,9 @@ public class HelloGit2 {
 	public void test1(){
 		System.out.println("...................");
 	}
+	
+	@Test
+	public void test2(){
+		System.out.println("...................");
+	}
 }
